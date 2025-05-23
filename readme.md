@@ -62,7 +62,3 @@ src/
 - [`src/components/WeatherComponent.ts`](src/components/WeatherComponent.ts): Fetches and displays weather data.
 - [`src/dto/country.ts`](src/dto/country.ts): Country data interface.
 - [`src/dto/current.ts`](src/dto/current.ts): Weather data interface.
-
-## License
-
-MIT
